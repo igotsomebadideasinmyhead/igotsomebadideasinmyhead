@@ -1,4 +1,4 @@
-Hello!👋 I am Anastasiya Savchuk. Welcome to my GitHub!
+Welcome to my GitHub!
 
 🌱 I’m currently learning on QA Course by Vadim Ksenzov
 📫 How to reach me: Telegram , Linkedin
